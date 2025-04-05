@@ -1,4 +1,4 @@
-package Assignment4;
+package AssignmentDay3;
 
 public class Browser {
 
